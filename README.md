@@ -1,1 +1,0 @@
-# batchi_golang
